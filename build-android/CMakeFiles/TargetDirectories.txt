@@ -1,0 +1,4 @@
+/home/work2/opengl_test/build-android/CMakeFiles/opencv_benchmark.dir
+/home/work2/opengl_test/build-android/CMakeFiles/gles_benchmark.dir
+/home/work2/opengl_test/build-android/CMakeFiles/edit_cache.dir
+/home/work2/opengl_test/build-android/CMakeFiles/rebuild_cache.dir
